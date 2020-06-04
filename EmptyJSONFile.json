@@ -1,0 +1,11 @@
+﻿[
+    {
+        "key1": "value1",
+        "key2": "value2"
+    },
+    {
+
+        "key1": "another value",
+        "key2": "Yep it's me!'"
+    }
+]
